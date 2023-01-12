@@ -1,9 +1,9 @@
-const API = 'https://instagram-profile1.p.rapidapi.com/getprofile/dani.pb'
+const API = 'https://instagram-profile1.p.rapidapi.com/getprofile/nickname'
 
 const options = {
   method: 'GET',
   headers: {
-    'X-RapidAPI-Key': 'f5a606dbfbmsh500c90df5a2cfa9p18e298jsnb67e442ca07c',
+    'X-RapidAPI-Key': 'APIKEY',
     'X-RapidAPI-Host': 'instagram-profile1.p.rapidapi.com'
   }
 };
